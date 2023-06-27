@@ -1000,3 +1000,9 @@ $
 
 
 // 깃 설정 과정 
+
+// https://wotres.tistory.com/entry/Github-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%EB%B2%95-Authentication-failed-for-use-a-personal-access-token-instead
+// https://jong99.tistory.com/26
+// https://usingu.co.kr/frontend/git/github-%EA%B8%B0%EB%B3%B8-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%AA%85-%EB%B3%80%EA%B2%BD-main-master/
+// https://velog.io/@fejigu/git-push-error-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-nothing-to-commit-working-tree-clean
+// https://0ver-grow.tistory.com/1102
